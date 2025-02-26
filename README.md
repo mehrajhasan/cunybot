@@ -1,2 +1,4 @@
-# cunybot
-this is a bot that i created to secure classes with limited seats for any CUNY
+# CUNYbot
+
+This is a bot that I created to tackle the inconvenience of CUNY courses reaching capacity due to limited availability. 
+
