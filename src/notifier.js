@@ -1,9 +1,6 @@
 import fetch from 'node-fetch';
 import { config } from './config.js';
 
-import fetch from 'node-fetch';
-import { config } from './config.js';
-
 export class Notifier {
     static sendSuccess(email, username, classID) {
         const data = {
